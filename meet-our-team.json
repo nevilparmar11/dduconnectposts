@@ -1,0 +1,284 @@
+[
+    {
+        "title": "designing",
+        "members_count": "9",
+        "members": [
+            {
+                "name": "VishwaPatel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/VISHWA.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "RohanShah",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ROHAN.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "RajshreeKshrisagar",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/RAJASHREE.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "NimishaJain",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/NIMISHA-500x499.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "HardikMakwana",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DSC_0179.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "DhairyaAcharya",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DHAIRYA.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "AsutoshGupta",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ASHUTOSH.jpeg",
+                "post": "AssociateDesigner"
+            },
+            {
+                "name": "MaharshiPatel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/12/icon-login-3.jpg.png",
+                "post": "Incharge"
+            },
+            {
+                "name": "JayPatel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/JAY.jpeg",
+                "post": "Head"
+            }
+        ]
+    },
+    {
+        "title": "editorial",
+        "members_count": "13",
+        "members": [
+            {
+                "name": "VrajalChokshi",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/VRAJAL-500x499.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "UtsavParmar",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/UTSAV-500x499.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "SunayanaSamavedam",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/SUNAINA.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "ParthPatel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/PARTH-P-500x499.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "NirmalSunil",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/NIRMAL.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "NidhiShah",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/NIDHI.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "LokeshNarwani",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/LOKESH.jpeg",
+                "post": "SeniorEditor"
+            },
+            {
+                "name": "ShuvamMahapatra",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/SHUVAM-499x500.jpeg",
+                "post": "OnlineEditor"
+            },
+            {
+                "name": "KaushalRohit",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/KAUSHAL.jpeg",
+                "post": "TechnicalEditor"
+            },
+            {
+                "name": "ParthMamtora",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/PARTH-M.jpeg",
+                "post": "Non-TechnicalEditor"
+            },
+            {
+                "name": "HuzaifaMankda",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/HUZAIFA-500x499.jpeg",
+                "post": "Non-TechnicalEditor"
+            },
+            {
+                "name": "HarshilKapadia",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/HARSHIL.jpeg",
+                "post": "ChiefExecutiveEditor"
+            },
+            {
+                "name": "DonnaBhagat",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DONNA.jpeg",
+                "post": "Editor-in-Chief"
+            }
+        ]
+    },
+    {
+        "title": "event",
+        "members_count": "12",
+        "members": [
+            {
+                "name": "SrushtiShah",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/SRUSHTI-500x499.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "RootwaGosalia",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ROOTWA.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "MalihaNan",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/MALIHA-500x499.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "HarshBhagchandani",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/HARSH.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "BhavyaKothari",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/BHAVYA-500x499.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "AdityaModi",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ADITYA-500x499.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "AbhinavSampat",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ABHINAV.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "PujanKothari",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/12/icon-login-3.jpg.png",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "ShrutiZalpuri",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/SHRUTI.jpeg",
+                "post": "SeniorAssociate"
+            },
+            {
+                "name": "MokshSancheti",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/MOKSH.jpeg",
+                "post": "FinanceHead"
+            },
+            {
+                "name": "JayeshShah",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/JAYESH.jpeg",
+                "post": "DeputyHead"
+            },
+            {
+                "name": "AnantMaheshwari",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/ANANT-500x499.jpeg",
+                "post": "Head"
+            }
+        ]
+    },
+    {
+        "title": "finance",
+        "members_count": "1",
+        "members": [
+            {
+                "name": "MokshSancheti",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/MOKSH.jpeg",
+                "post": "FinanceHead"
+            }
+        ]
+    },
+    {
+        "title": "photography",
+        "members_count": "6",
+        "members": [
+            {
+                "name": "PreetSoni",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/12/icon-login-3.jpg.png",
+                "post": "Photographer"
+            },
+            {
+                "name": "NickyRathod",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/12/icon-login-3.jpg.png",
+                "post": "Photographer"
+            },
+            {
+                "name": "HarshGohel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DSC_0209.jpeg",
+                "post": "Photographer"
+            },
+            {
+                "name": "HarmeetDevariya",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/HARMEET.jpeg",
+                "post": "Photographer"
+            },
+            {
+                "name": "DhruvZankat",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DHRUV.jpeg",
+                "post": "Photographer"
+            },
+            {
+                "name": "AditShah",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/DSC_0204.jpeg",
+                "post": "Photographer"
+            }
+        ]
+    },
+    {
+        "title": "webdevlopment",
+        "members_count": "5",
+        "members": [
+            {
+                "name": "VandanFatehpuria",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/VANDAN.jpeg",
+                "post": "WebDeveloper"
+            },
+            {
+                "name": "TilakrajDesai",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/12/icon-login-3.jpg.png",
+                "post": "WebDeveloper"
+            },
+            {
+                "name": "MahakGupta",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/MAHAK.jpeg",
+                "post": "WebDeveloper"
+            },
+            {
+                "name": "AkshayGera",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/AKSHAY.jpeg",
+                "post": "WebDeveloper"
+            },
+            {
+                "name": "AatishChaudhari",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/AATISH.jpeg",
+                "post": "WebDeveloper"
+            }
+        ]
+    },
+    {
+        "title": "supporting",
+        "members_count": "2",
+        "members": [
+            {
+                "name": "ForamPatel",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/FORAM-499x500.jpeg",
+                "post": "SupportingTeam"
+            },
+            {
+                "name": "ChinmayParikh",
+                "image": "https://dduconnect.in/wp-content/uploads/2018/11/CHINMAY-500x499.jpeg",
+                "post": "SupportingTeam"
+            }
+        ]
+    }
+]
